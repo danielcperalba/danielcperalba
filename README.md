@@ -1,7 +1,7 @@
 
-### Experiência de trabalho
+### Work Experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/ffyeVPiTw2I3tXziE_-JqIMlJrE9tY5lIE4U56X8h0qQynAJuTOxnyZFTW6difgS9vJZ"/>](https://www.csn.com.br/)
 
@@ -19,4 +19,4 @@ Languages & Technologies `Power Apps`, `Power BI`, `Power Automate`, `Excel`,\
 Activities: 
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/daniel-peralba/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Please find me on [LinkedIn](https://www.linkedin.com/in/daniel-peralba/) for a more detailed description of my work experience, education and certification.
