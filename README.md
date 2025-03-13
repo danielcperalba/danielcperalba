@@ -16,7 +16,7 @@ Activities:
 **Product Analyst (Jr)** \
 [**Semcon**](https://www.semcon.com/pt) • Full-time \
 Languages & Technologies `Power Apps`, `Power BI`, `Power Automate`, `Excel`,\
-Activities: [Ignite](), [Bootcamp]()
+Activities: 
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/daniel-peralba/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
