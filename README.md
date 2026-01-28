@@ -1,15 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
-
-<div align="center">
-  
-  ```ascii
-  ╔═══════════════════════════════════════╗
-  ║  Transformando café em código desde  ║
-  ║        [ano que começou]             ║
-  ╚═══════════════════════════════════════╝
-  ```
-  
-</div>
+# 👋 Olá, eu sou Daniel!
 
 ## 🚀 Sobre Mim
 
@@ -17,11 +6,10 @@ Sou um desenvolvedor apaixonado por criar soluções que fazem diferença. Acred
 
 ```javascript
 const sobre_mim = {
-  localização: "São Paulo, Brasil 🇧🇷",
-  foco_atual: ["desenvolvimento web", "open source"],
-  aprendendo: ["novas tecnologias", "boas práticas"],
-  hobby: "além do código...",
-  café_por_dia: "mais do que deveria ☕"
+  localização: "Quatis, Rio de Janeiro, Brasil 🇧🇷",
+  foco_atual: ["desenvolvimento mobile", "dados"],
+  aprendendo: ["react native", "boas práticas"],
+  hobby: "além do código..."
 };
 ```
 
@@ -49,18 +37,6 @@ const sobre_mim = {
   
 </div>
 
-## 🎯 Projetos em Destaque
-
-### 📌 [Nome do Projeto 1](link)
-> Breve descrição do que esse projeto faz e por que é interessante
-
-**Tech:** `JavaScript` `React` `Node.js`
-
-### 📌 [Nome do Projeto 2](link)
-> Outra descrição interessante sobre seu projeto
-
-**Tech:** `Python` `Django` `PostgreSQL`
-
 ## 🌱 Atualmente Explorando
 
 - 🔭 Trabalhando em: **[descrição do projeto atual]**
@@ -82,14 +58,6 @@ const sobre_mim = {
 ---
 
 <div align="center">
-  
-  ### 💭 Pensamento do Momento
-  
-  *"A melhor maneira de prever o futuro é inventá-lo."* - Alan Kay
-  
-  <br>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
   
   **Obrigado pela visita!** 😄
   
