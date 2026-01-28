@@ -1,170 +1,61 @@
-<div align="center">
+# Hi there, I'm [Axel](https://axelfrache.com) 👋
 
-```
-    🪨                                                                        🪨
-  🟢                                                                          🔵
-🟡        ╔══════════════════════════════════════════════════════╗         🟠
-🔴        ║                                                      ║       🟣
-🟢        ║         👋 Olá, eu sou [Seu Nome]                   ║     🔵
-🔵        ║                                                      ║   🟢
-🟡        ║    Transformando café em código desde [ano]         ║ 🟡
-  🟠      ║         e escalando desafios todo dia! 🧗           ║
-    🟣    ╚══════════════════════════════════════════════════════╝
-      🪨
-```
+<p align="center">
+  <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
+</p>
 
-</div>
+<h3 align="center">Software Engineering & Data/M.L. Enthusiast 👨‍💻</h3>
 
-```
-🥾👤................................................🌲.........⛰️
-   └─ Trilhando o caminho do código...
-```
+<p align="center"> 
+Passionate about automation, system reliability, and scalable infrastructure.
+</p>
 
-## 🚀 Sobre Mim
+<p align="center">
+Currently working as a Product Analyst at Knightec Group, where I develop production systems, CI/CD pipelines, and scalable backend services using Java/Spring and modern JavaScript frameworks.
+</p>
 
-```
-🪨                                                                    🟢
-  🔵                                                                🪨
-```
+<h2 align="center">🤝 Connect with Me</h2>
 
-Sou um desenvolvedor apaixonado por criar soluções que fazem diferença. Acredito que código bem escrito é uma forma de arte, e que tecnologia deve ser acessível e transformadora.
+<p align="center">
+  <a href="https://axelfrache.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="24px"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/axel-frache" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24px"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/axelfrache" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" height="24px"/></a>
+</p>
 
-**Assim como na escalada, no código eu:**
-- 🧗 Encontro soluções criativas para problemas complexos
-- 🎯 Foco no próximo movimento (próxima funcionalidade)
-- 💪 Não desisto quando o desafio parece impossível
-- 🤝 Valorizo a comunidade e compartilho conhecimento
+<h2 align="center">💼 Technical Skills</h2>
 
-```javascript
-const sobre_mim = {
-  localização: "São Paulo, Brasil 🇧🇷",
-  foco_atual: ["desenvolvimento web", "open source", "escalada 🧗"],
-  aprendendo: ["novas tecnologias", "boas práticas"],
-  hobby: "escalada em rocha e indoor",
-  café_por_dia: "mais do que deveria ☕",
-  mentalidade: "cada bug é uma nova rota para resolver"
-};
-```
+<!-- Languages & Frameworks -->
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</p>
 
-```
-  🟡                                                                  🟣
-🪨                                                                      🪨
-```
+<!-- DevOps & Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-## 🛠️ Stack & Ferramentas
+<!-- Operating Systems -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
 
-```
-🟢                                                                    🔵
-  🪨                                                                🪨
-```
+<h2 align="center">📈 GitHub Stats</h2>
 
-**Linguagens que falo (com o computador):**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelfrache&layout=compact&theme=cobalt" alt="Top Languages"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Ferramentas do dia a dia:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-```
-    🟡                                                              🟠
-      🪨                                                          🪨
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-</div>
-
-## 🎯 Projetos em Destaque
-
-```
-                    🌲
-🥾👤.........🌿.................🌲.........🏔️
-   └─ Explorando novos territórios no código...
-```
-
-```
-🟣                                                                    🟢
-  🪨                                                                🪨
-```
-
-### 📌 [Nome do Projeto 1](link)
-> Breve descrição do que esse projeto faz e por que é interessante
-
-**Tech:** `JavaScript` `React` `Node.js`
-
-### 📌 [Nome do Projeto 2](link)
-> Outra descrição interessante sobre seu projeto
-
-**Tech:** `Python` `Django` `PostgreSQL`
-
-```
-    🔵                                                              🟡
-      🪨                                                          🪨
-```
-
-## 🌱 Atualmente Explorando
-
-- 🔭 Trabalhando em: **[descrição do projeto atual]**
-- 🌱 Aprendendo: **[tecnologia ou conceito novo]**
-- 👯 Buscando colaborar em: **projetos open source**
-- 💬 Me pergunte sobre: **[suas áreas de expertise]**
-- ⚡ Curiosidade: **[algo interessante sobre você]**
-
-## 📫 Vamos Conectar?
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](seu-portfolio)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Pensamento do Momento
-  
-  *"A melhor maneira de prever o futuro é inventá-lo."* - Alan Kay
-  
-  <br>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
-  
-  **Obrigado pela visita!** 😄
-  
-</div>
-
----
-
-<div align="center">
-
-### 📚 Minha Estante Digital
-
-```
-  📕      📗      📘      📙      📔      📓
- Clean   Design   Código   Domain   The     Pragmatic
- Code   Patterns  Limpo   Driven   Phoenix  Programmer
-                          Design   Project
-```
-
-*"Sempre aprendendo, sempre evoluindo"*
-
-</div>
-
-```
-🪨 🟢 🔵 🟡 🟠 🟣 🪨
-   └─ Cada boulder é um desafio superado!
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=axelfrache&color=blue" alt="Profile Views"/>
+</p>
