@@ -1,4 +1,4 @@
-# Hi there, I'm [Axel](https://axelfrache.com) 👋
+# Hi there, I'm [Daniel](https://axelfrache.com) 👋
 
 <p align="center">
   <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
