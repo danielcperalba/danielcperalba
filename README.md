@@ -1,19 +1,62 @@
-# 👋 Olá, eu sou Daniel!
+<div align="center">
+
+```
+    🪨                                                                        🪨
+  🟢                                                                          🔵
+🟡        ╔══════════════════════════════════════════════════════╗         🟠
+🔴        ║                                                      ║       🟣
+🟢        ║         👋 Olá, eu sou [Seu Nome]                   ║     🔵
+🔵        ║                                                      ║   🟢
+🟡        ║    Transformando café em código desde [ano]         ║ 🟡
+  🟠      ║         e escalando desafios todo dia! 🧗           ║
+    🟣    ╚══════════════════════════════════════════════════════╝
+      🪨
+```
+
+</div>
+
+```
+🥾👤................................................🌲.........⛰️
+   └─ Trilhando o caminho do código...
+```
 
 ## 🚀 Sobre Mim
 
+```
+🪨                                                                    🟢
+  🔵                                                                🪨
+```
+
 Sou um desenvolvedor apaixonado por criar soluções que fazem diferença. Acredito que código bem escrito é uma forma de arte, e que tecnologia deve ser acessível e transformadora.
+
+**Assim como na escalada, no código eu:**
+- 🧗 Encontro soluções criativas para problemas complexos
+- 🎯 Foco no próximo movimento (próxima funcionalidade)
+- 💪 Não desisto quando o desafio parece impossível
+- 🤝 Valorizo a comunidade e compartilho conhecimento
 
 ```javascript
 const sobre_mim = {
-  localização: "Quatis, Rio de Janeiro, Brasil 🇧🇷",
-  foco_atual: ["desenvolvimento mobile", "dados"],
-  aprendendo: ["react native", "boas práticas"],
-  hobby: "além do código..."
+  localização: "São Paulo, Brasil 🇧🇷",
+  foco_atual: ["desenvolvimento web", "open source", "escalada 🧗"],
+  aprendendo: ["novas tecnologias", "boas práticas"],
+  hobby: "escalada em rocha e indoor",
+  café_por_dia: "mais do que deveria ☕",
+  mentalidade: "cada bug é uma nova rota para resolver"
 };
 ```
 
+```
+  🟡                                                                  🟣
+🪨                                                                      🪨
+```
+
 ## 🛠️ Stack & Ferramentas
+
+```
+🟢                                                                    🔵
+  🪨                                                                🪨
+```
 
 **Linguagens que falo (com o computador):**
 
@@ -26,6 +69,49 @@ const sobre_mim = {
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+```
+    🟡                                                              🟠
+      🪨                                                          🪨
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  
+</div>
+
+## 🎯 Projetos em Destaque
+
+```
+                    🌲
+🥾👤.........🌿.................🌲.........🏔️
+   └─ Explorando novos territórios no código...
+```
+
+```
+🟣                                                                    🟢
+  🪨                                                                🪨
+```
+
+### 📌 [Nome do Projeto 1](link)
+> Breve descrição do que esse projeto faz e por que é interessante
+
+**Tech:** `JavaScript` `React` `Node.js`
+
+### 📌 [Nome do Projeto 2](link)
+> Outra descrição interessante sobre seu projeto
+
+**Tech:** `Python` `Django` `PostgreSQL`
+
+```
+    🔵                                                              🟡
+      🪨                                                          🪨
+```
 
 ## 🌱 Atualmente Explorando
 
@@ -49,6 +135,36 @@ const sobre_mim = {
 
 <div align="center">
   
+  ### 💭 Pensamento do Momento
+  
+  *"A melhor maneira de prever o futuro é inventá-lo."* - Alan Kay
+  
+  <br>
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square)
+  
   **Obrigado pela visita!** 😄
   
 </div>
+
+---
+
+<div align="center">
+
+### 📚 Minha Estante Digital
+
+```
+  📕      📗      📘      📙      📔      📓
+ Clean   Design   Código   Domain   The     Pragmatic
+ Code   Patterns  Limpo   Driven   Phoenix  Programmer
+                          Design   Project
+```
+
+*"Sempre aprendendo, sempre evoluindo"*
+
+</div>
+
+```
+🪨 🟢 🔵 🟡 🟠 🟣 🪨
+   └─ Cada boulder é um desafio superado!
+```
