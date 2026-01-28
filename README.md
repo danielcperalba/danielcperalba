@@ -27,16 +27,6 @@ const sobre_mim = {
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-</div>
-
 ## 🌱 Atualmente Explorando
 
 - 🔭 Trabalhando em: **[descrição do projeto atual]**
