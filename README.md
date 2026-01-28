@@ -49,13 +49,3 @@ Currently working as a Product Analyst at Knightec Group, where I develop produc
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelfrache&layout=compact&theme=cobalt" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=axelfrache&color=blue" alt="Profile Views"/>
-</p>
