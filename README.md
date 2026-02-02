@@ -23,7 +23,7 @@ Olá! 👋 Sou desenvolvedor e analista de produto com experiência em automaç�
 
 **Ferramentas:** Azure DevOps, Git, SQL Server, Excel
 
-**Foco Atual:** Machine Learning e Engenharia de Dados
+**Foco Atual:** Desenvolvimento de Software e Machine Learning
 
 ## 🎯 Projetos Destacados
 
