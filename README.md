@@ -43,7 +43,6 @@ Solução integrada com Power Platform para controle de cestas de natal:
 
 - 📧 Email: danielcperalba@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/daniel-peralba](https://linkedin.com/in/daniel-peralba)
-- 📱 Telefone: +55 (24) 99911-2911
 - 📍 Quatis, Rio de Janeiro, Brasil
 
 ---
