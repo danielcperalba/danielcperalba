@@ -31,7 +31,7 @@ Olá! 👋 Sou desenvolvedor e analista de produto com experiência em automaç�
 Aplicação completa para gestão de frotas veiculares com:
 - App mobile em React Native com geolocalização e checklists
 - API REST em .NET 8 com autenticação
-- Dashboard web em React.js com métricas operacionais
+- Plataforma web em React.js com CRUD e dashboard para métricas operacionais
 
 ### Automação de Distribuição - Knightec Group
 Solução integrada com Power Platform para controle de cestas de natal:
