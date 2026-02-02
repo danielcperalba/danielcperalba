@@ -1,6 +1,6 @@
 # Daniel Campos Peralba
 
-**Analista de Produto | Desenvolvedor Full Stack**
+**Analista de Produto | Engenheiro de Software**
 
 Olá! 👋 Sou desenvolvedor e analista de produto com experiência em automação de processos, desenvolvimento de aplicações web e mobile, e análise de dados.
 
