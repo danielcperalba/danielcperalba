@@ -8,7 +8,6 @@ Olá! 👋 Sou desenvolvedor e analista de produto com experiência em automaç�
 
 - 💼 Atualmente trabalhando como **Analista de Produto Júnior** na Knightec Group
 - 🎓 Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco do Rio de Janeiro
-- 📚 Cursei 1 período da pós-graduação em Machine Learning Engineering (FIAP)
 - 🌱 Expandi conhecimentos em Machine Learning pela UERJ
 
 ## 💻 Stack Técnica
