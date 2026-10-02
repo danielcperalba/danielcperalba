@@ -1,47 +1,81 @@
-# Daniel Campos Peralba
+# Olá, eu sou Daniel Peralba 👋
 
-**Analista de Produto | Engenheiro de Software**
+### Software Engineer | Data & AI | Automotive Technology
 
-Olá! 👋 Sou desenvolvedor e analista de produto com experiência em automação de processos, desenvolvimento de aplicações web e mobile, e análise de dados.
+Sou profissional de tecnologia com experiência em **desenvolvimento de software, sistemas embarcados, indústria automotiva e análise de dados**.
+
+Tenho grande interesse por **Ciência da Computação e Engenharia de Software**, principalmente por entender como as coisas funcionam por trás dos sistemas e transformar problemas em soluções de software.
+
+Sou bastante curioso e gosto de aprender construindo. Atualmente, meus principais interesses estão em **software, inteligência artificial, dados, automação e sistemas veiculares**.
+
+---
 
 ## 🚀 Sobre mim
 
-- 💼 Atualmente trabalhando como **Analista de Produto Júnior** na Knightec Group
-- 🎓 Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco do Rio de Janeiro
-- 🌱 Expandi conhecimentos em Machine Learning pela UERJ
+- 💻 Experiência com **C#, .NET, React, React Native, TypeScript e Python**
+- 🚗 Experiência com **software embarcado e sistemas eletrônicos veiculares**
+- 📡 Conhecimentos em **CAN, J1939, ECUs, ABS/EBS e ADAS**
+- 📊 Experiência com **dados, SQL, Power BI e modelagem de dados**
+- 🤖 Estudando e desenvolvendo projetos envolvendo **Machine Learning, LLMs e agentes de IA**
+- 🏗️ Interesse em **arquitetura de software, APIs e sistemas distribuídos**
+- 🔬 Grande interesse por **Ciência da Computação e computação aplicada**
+- 🧠 Gosto de entender não apenas *como* algo funciona, mas também *por que* funciona
 
-## 💻 Stack Técnica
+---
 
-**Linguagens:** Python, JavaScript, C#, SQL
+## 🛠️ Tecnologias
 
-**Frontend:** React.js, React Native, TailwindCSS
+### Desenvolvimento
+`C#` `.NET` `Java` `Spring Boot` `React` `React Native` `TypeScript` `Python`
 
-**Backend:** .NET, ASP.NET Core, API REST
+### Dados & IA
+`SQL` `SQL Server` `Oracle` `Power BI` `DAX` `Power Query` `Machine Learning` `LLMs` `AI Agents`
 
-**Low-Code:** Power BI, Power Apps, Power Automate
+### Sistemas & Automação
+`REST APIs` `Docker` `Git` `Azure DevOps` `RabbitMQ` `Redis`
 
-**Ferramentas:** Azure DevOps, Git, SQL Server, Excel
+### Automotivo & Embarcados
+`CAN` `J1939` `ECU` `ABS/EBS` `ADAS` `CANalyzer` `CANape`
 
-**Foco Atual:** Desenvolvimento de Software e Machine Learning
+---
 
-## 🎯 Projetos Destacados
+## 📌 Projetos
 
-### Drive Sync - Sistema de Gerenciamento de Frotas (TCC)
-Aplicação completa para gestão de frotas veiculares com:
-- App mobile em React Native com geolocalização e checklists
-- API REST em .NET 8 com autenticação
-- Plataforma web em React.js com CRUD e dashboard para métricas operacionais
+### 🚛 Drive Sync
+**Sistema de gerenciamento de frotas desenvolvido como projeto de TCC.**
 
-### Automação de Distribuição - Knightec Group
-Solução integrada com Power Platform para controle de cestas de natal:
-- Validação automatizada via Power Automate
-- App mobile com leitura de QR Code
-- Dashboard gerencial em Power BI
+Aplicação composta por aplicativo mobile, aplicação web e API REST, com funcionalidades de registro de viagens, checklist de veículos, geolocalização e histórico de manutenções.
+
+**Stack:** React Native · React · TypeScript · .NET 8 · C# · SQL Server
+
+---
+
+### 🤖 Quote Engine
+
+Plataforma em desenvolvimento para **descoberta de fornecedores e automação de cotações utilizando Inteligência Artificial**.
+
+O projeto explora integração com LLMs, descoberta de fornecedores através de APIs externas e automação de processos de compra.
+
+**Stack:** Java 21 · Spring Boot · Angular · PostgreSQL · Docker · Spring AI · LLMs
+
+---
+
+## 🎓 Formação
+
+**Pós-graduação em Engenharia de Software** — PUC Minas
+
+**Bacharelado em Sistemas de Informação** — Centro Universitário Dom Bosco do Rio de Janeiro
+
+**Ciência de Dados e Machine Learning** — UERJ
+
+---
 
 ## 📫 Contato
 
-- 📧 Email: danielcperalba@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/daniel-peralba](https://linkedin.com/in/daniel-peralba)
-- 📍 Quatis, Rio de Janeiro, Brasil
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-peralba)
+- 🌐 [Portfólio](https://danielperalba.dev/)
+- 📧 danielcperalba@gmail.com
 
 ---
+
+> **"Entender como as coisas funcionam é tão interessante quanto fazê-las funcionar."**
